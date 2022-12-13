@@ -2,7 +2,7 @@
 *Open source software for your weather station*
 
 ## Description
-
+moje úprava off-line
 The WeeWX weather system is written in Python and runs on Linux, MacOSX,
 Solaris, and *BSD.  It runs exceptionally well on a Raspberry Pi.  It generates
 plots, HTML pages, and monthly and yearly summary reports, which can be
